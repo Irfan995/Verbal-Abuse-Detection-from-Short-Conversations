@@ -129,7 +129,7 @@ To adapt the framework for a new dataset:
 
 ## 📖 Citation
 
-If you use this dataset or code, please cite the following paper:
+Please cite the following paper:
 
 > F. A. Irfan, C. Behl and R. Iqbal, "Verbal Abuse Detection from Short Conversations," *2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)*, Las Vegas, NV, USA, 2025, pp. 1–2.  
 > DOI: [https://doi.org/10.1109/CCNC54725.2025.10976181](https://doi.org/10.1109/CCNC54725.2025.10976181)
@@ -147,6 +147,9 @@ If you use this dataset or code, please cite the following paper:
   keywords  = {Emotion recognition; Attention mechanisms; Accuracy; Transfer learning; Neural networks; Oral communication; Bidirectional control; Feature extraction; Encoding; Mel frequency cepstral coefficient; Attention mechanism; BERT; Emotion detection; K-fold validation; Neural network; SBERT; Transfer learning}
 }
 ```
+
+If you use this dataset or code:
+> DOI: [10.5281/zenodo.17445624](https://doi.org/10.5281/zenodo.17445624)
 
 ---
 
