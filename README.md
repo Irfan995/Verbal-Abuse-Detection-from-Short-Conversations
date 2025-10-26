@@ -65,7 +65,7 @@ output = Dense(num_labels, activation='sigmoid')(contextual)
 ### 1️⃣ Installation
 
 ```bash
-git clone https://github.com/<your-username>/multi-label-saf.git
+git clone https://github.com/<your-username>Verbal-Abuse-Detection-from-Short-Conversations.git
 cd multi-label-saf
 pip install -r requirements.txt
 ```
@@ -121,7 +121,7 @@ pip install tensorflow scikit-learn sentence-transformers pandas numpy matplotli
 
 To adapt the framework for a new dataset:
 1. Place the dataset file (CSV/XLSX) in the project root.  
-2. Update the `DATA_PATH` variable in `multi_label_saf.py`.  
+2. Update the `DATASET_PATH` variable in `multi_label_saf.py`.  
 3. Modify `LABEL_COLUMNS` to match your new annotation scheme.  
 4. Run the training script — the pipeline automatically preprocesses and trains.
 

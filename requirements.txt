@@ -1,0 +1,12 @@
+gensim==4.3.1
+keras==2.13.1
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.2
+scikit_learn==1.2.2
+sentence_transformers==2.2.2
+tensorflow==2.13.0
+tensorflow_addons==0.21.0
+tensorflow_intel==2.13.0
+torch==2.0.1
+transformers==4.31.0
